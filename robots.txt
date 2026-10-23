@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tipmetro-bot.github.io/hurakCOM/sitemap.xml
